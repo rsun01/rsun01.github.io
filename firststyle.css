@@ -1,10 +1,38 @@
 
 
 body {
-	font-size:200px;
+	font-size: 25px;
 	background-color: green;
 }
+
+p {
+	font-size: 12px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
 img{
     width:540px;
     height: auto;
+}
+
+.header {
+	font-size: 14 px;
+	font-family: Arial;
+}
+
+.subheader {
+	font-size: 12px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.bullets {
+	font-size: 12px;
+	font-family: Arial;
+	margin-left: 7%;
 }
