@@ -18,6 +18,14 @@ img{
     height: auto;
 }
 
+.normal {
+	font-size: 12px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
 .header {
 	font-family: Arial;
 }
