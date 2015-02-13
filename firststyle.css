@@ -1,7 +1,7 @@
 
 
 body {
-	font-size: 25px;
+	font-size: 20px;
 	background-color: green;
 }
 
@@ -16,14 +16,6 @@ p {
 img{
     width:200px;
     height: auto;
-}
-
-.normal {
-	font-size: 12px;
-	font-family: Arial;
-	font-weight: bold;
-	margin-left: 5%;
-	margin-right: 5%;
 }
 
 .header {
